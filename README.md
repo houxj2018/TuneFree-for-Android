@@ -1,6 +1,5 @@
 <h2 align="center" style="font-weight: 600">TuneFree for Android</h2>
 
-<h2>教你一点礼仪，别他妈跑到别人作品下面瞎几把吹说TuneFree比你做的好，别他妈吹牛逼了，我也是二开的别人软件，没啥技术含量，别tm到处引战给我丢脸了 </h2>
 
 
 
